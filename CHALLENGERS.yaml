@@ -98,3 +98,7 @@ challengers:
         affiliation: "Effiziente Technologieintegration (ETi), Institut für Angewandte Informatik (InfAI) e. V."
       - name: "Claus Stadler"
         affiliation: "Effiziente Technologieintegration (ETi), Institut für Angewandte Informatik (InfAI) e. V."
+  - api: "https://35.154.180.131/text2sparql"
+    authors:
+      - name: "Fanghua (Joshua) Yu"
+        affiliation: "graphway.ai, graphwise.ai"
